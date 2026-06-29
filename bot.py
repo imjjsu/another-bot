@@ -2841,7 +2841,7 @@ async def send_delivery_item(update: Update, delivery_item: dict) -> None:
 {delivery_item.get('text', '')}
 
 ----------
-نتمنى لك تجربة رائعة, لا تنسى تقيمنا هنا @repkal 😍🤍
+نتمنى لك تجربة رائعة, لا تنسى تقيمنا هنا @l2rb5 😍🤍
             """
         )
         return
